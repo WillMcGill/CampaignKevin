@@ -10,7 +10,12 @@ body{
 
 
 .navbar{
-    height: 10vh;
+    height: 15vh;
+}
+
+#item.dropdown-menu.show{
+
+    text-align: center;
 }
 .container-flex{
     margin-right: 3rem;
@@ -26,3 +31,4 @@ body{
 
     
 }
+
