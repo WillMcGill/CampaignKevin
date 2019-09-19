@@ -2,3 +2,17 @@ a{
     color:inherit;
 }
 
+.navbar{
+    height: 10vh;
+}
+.container-flex{
+    margin-right: 3rem;
+    margin-left: 3rem;
+    margin-top: 1rem;
+}
+@media (max-width: 768px){
+    
+    .container-flex{
+        margin: 0px;
+    }
+}
