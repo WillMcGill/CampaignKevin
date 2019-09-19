@@ -1,6 +1,13 @@
 a{
     color:inherit;
+    align-self: center;
 }
+
+body{
+    background-color: lightgrey;
+}
+
+
 
 .navbar{
     height: 10vh;
@@ -9,10 +16,13 @@ a{
     margin-right: 3rem;
     margin-left: 3rem;
     margin-top: 1rem;
+
 }
 @media (max-width: 768px){
     
     .container-flex{
         margin: 0px;
     }
+
+    
 }
