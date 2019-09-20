@@ -32,3 +32,13 @@ body{
     
 }
 
+@media (min-width:2500px){}
+
+    #item.dropdown-menu.show{
+        text-size-adjust: 5;
+    }
+
+
+
+
+
